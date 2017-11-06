@@ -1,3 +1,5 @@
+![alt text](https://s3.producthunt.com/static/ph-logo-1.png "Product Hunt")
+
 # MOB2-Product-Hunt
 With this project we practiced what we learned in *Mobile-3*. This app shows the daily products and comments from Product Hunt.
 
